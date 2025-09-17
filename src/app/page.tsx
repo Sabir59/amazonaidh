@@ -58,7 +58,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="text-center md:text-left">
               <h1 className="font-headline text-4xl md:text-5xl font-extrabold text-slate-900 tracking-tight">
-                The Amazon Agency that sky-rockets your business and adds Rocket-fuel
+                The Amazon Agency that sky-rockets your business and adds Rocket-fue
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-xl mx-auto md:mx-0">
                 Rated 4.9/5.0 by our clients for our outstanding services and support.
